@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://foodcrm.com.br/" target="blank"><img src="src/assets/img/logo_light_amarelo.png" width="400" alt="Nest Logo" /></a>
+  <a href="http://foodcrm.com.br/" target="blank"><img src="https://foodcrm.com.br/logo_dark_amarelo.png" width="400" alt="Nest Logo" /></a>
 </p>
 
 
